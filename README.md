@@ -4,4 +4,4 @@
 
 * [dl.net](http://deeplearning.net/)
 
-** xueminzhao 3/30/2013 **
+**xueminzhao 3/30/2013**
